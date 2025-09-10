@@ -6,8 +6,8 @@ I’ll be sharing my **daily progress**, code snippets, and notes here.
 ---
 
 ## 📂 Repository Structure  
-- **Lecture/** → Contains code and notes from lectures.  
-- **Questions/** → Contains practice problems, exercises, and solutions.  
+- **Flask_concept/** → Contains code and notes from lectures.  
+- **Flask_Question/** → Contains practice problems, exercises, and solutions.  
 
 ---
 
