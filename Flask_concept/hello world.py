@@ -30,5 +30,11 @@ def handle_url_params():
     return 'some parameters are missing'
 
 
+# X Post method
+@app.route('/hello',methods =['POST'])                   
+def Hello_world2():                  
+    return "<h1>Hello World!!🎈</h1>"
+
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)           # run the application
