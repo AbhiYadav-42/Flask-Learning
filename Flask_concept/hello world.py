@@ -30,7 +30,8 @@ def handle_url_params():
     return 'some parameters are missing'
 
 
-# X Post method
+# X Post method , GET , DELETE , PUT - Method
+#  we can use this methods too 
 @app.route('/hello',methods =['POST'])                   
 def Hello_world2():                  
     return "<h1>Hello World!!🎈</h1>"
